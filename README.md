@@ -4,7 +4,9 @@
 Je me présente Denis, Développeur Frontend (JavaScript && SCSS). Je souhaite devenir Fullstack.
 
 ## 🛠 Skills
-J'ai commencé à construire mon propre FRAMEWORK avec les technologies suivantes (JS / SASS / Système 7-1 / BEM / CSS3 avancé / HTML5 )
+J'ai commencé à construire mon propre FRAMEWORK avec les technologies suivantes :
+
+(JS / SASS / Système 7-1 / BEM / CSS3 avancé / HTML5 )
 
 - JavaScript
 - SASS : le préprocesseur avec la syntaxe SCSS
